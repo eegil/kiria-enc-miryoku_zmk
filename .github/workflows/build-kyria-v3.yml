@@ -12,3 +12,6 @@ jobs:
       shield: '["kyria_rev3_left","kyria_rev3_right"]'
       kconfig: '["CONFIG_EC11=y\nCONFIG_EC11_TRIGGER_GLOBAL_THREAD=y\nCONFIG_ZMK_DISPLAY=y\nCONFIG_ZMK_WIDGET_BATTERY_STATUS_SHOW_PERCENTAGE=y\nCONFIG_BT_CTLR_TX_PWR_PLUS_8=y"]'
       alphas: '["qwerty"]'
+      nav: '["invertedt"]'
+      clipboard: '["mac"]'
+      layers: '["default"]'
